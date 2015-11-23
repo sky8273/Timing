@@ -1,0 +1,16 @@
+D:\VSProjects\MY_CODE\计时系统\计时系统\bin\Debug\TimingSystem.exe.config
+D:\VSProjects\MY_CODE\计时系统\计时系统\bin\Debug\TimingSystem.exe
+D:\VSProjects\MY_CODE\计时系统\计时系统\bin\Debug\TimingSystem.pdb
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.csprojResolveAssemblyReference.cache
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.Properties.Resources.resources
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.csproj.GenerateResource.Cache
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.exe
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.pdb
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.Form_EventManagement.resources
+D:\VSProjects\MY_CODE\计时系统\计时系统\obj\Debug\TimingSystem.MainForm.resources
+D:\VSProjects\MY_CODE\TimingSystem_1\计时系统\bin\Debug\TimingSystem.exe.config
+D:\VSProjects\MY_CODE\TimingSystem_1\计时系统\obj\Debug\TimingSystem.exe
+D:\VSProjects\MY_CODE\TimingSystem_1\计时系统\obj\Debug\TimingSystem.pdb
+D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\bin\Debug\TimingSystem.exe.config
+D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\obj\Debug\TimingSystem.exe
+D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\obj\Debug\TimingSystem.pdb
