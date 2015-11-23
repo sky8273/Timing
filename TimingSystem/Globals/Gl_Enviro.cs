@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TimingSystem.Globals
 {
+    //
     public static class Gl_Enviro
     {
         //root directory
