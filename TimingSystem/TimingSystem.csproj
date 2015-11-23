@@ -33,6 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,8 +51,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Globals\My_Enviros.cs" />
-    <Compile Include="Globals\Global_Utilities.cs" />
+    <Compile Include="Globals\Gl_Enviro.cs" />
+    <Compile Include="Globals\Gl_Util.cs" />
     <Compile Include="MaiForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +67,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\ExcelHelper.cs" />
+    <Compile Include="Utility\ExcelReader.cs" />
+    <Compile Include="Utility\ExcelWriter.cs" />
+    <Compile Include="Utility\TreeViewDataAccess.cs" />
     <EmbeddedResource Include="MaiForm.resx">
       <DependentUpon>MaiForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +136,7 @@
   <ItemGroup>
     <None Include="Resources\flag_end_0.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

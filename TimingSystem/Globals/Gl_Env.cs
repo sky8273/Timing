@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TimingSystem.Globals
 {
     ////
-    public static class Gl_Enviro
+    public static class Gl_Env
     {
         //root directory
         public static readonly string dir_root = "Meta_data";

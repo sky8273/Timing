@@ -14,3 +14,13 @@ D:\VSProjects\MY_CODE\TimingSystem_1\计时系统\obj\Debug\TimingSystem.pdb
 D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\bin\Debug\TimingSystem.exe.config
 D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\obj\Debug\TimingSystem.exe
 D:\VSProjects\MY_CODE\TimingSystem_1\TimingSystem\obj\Debug\TimingSystem.pdb
+D:\GitHubFolder\Timing\TimingSystem\bin\Debug\TimingSystem.exe.config
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.exe
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.pdb
+D:\GitHubFolder\Timing\TimingSystem\bin\Debug\TimingSystem.exe
+D:\GitHubFolder\Timing\TimingSystem\bin\Debug\TimingSystem.pdb
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.csprojResolveAssemblyReference.cache
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.MainForm.resources
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.Form_EventManagement.resources
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.Properties.Resources.resources
+D:\GitHubFolder\Timing\TimingSystem\obj\Debug\TimingSystem.csproj.GenerateResource.Cache
